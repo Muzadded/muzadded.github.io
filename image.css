@@ -1,7 +1,7 @@
 section{
     background-image: url(/5.jpg);
     background-size: 100%;
-    background-position: center;
+    background-position: absolute;
     height: 610px;
     padding: 20px;
     text-align: center;
