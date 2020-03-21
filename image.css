@@ -2,7 +2,7 @@ section{
     background-image: url(/5.jpg);
     background-size: 100%;
     background-position: absolute;
-    height: 610px;
+    height: 600px;
     padding: 20px;
-    text-align: center;
+    text-align: absolute;
        }
