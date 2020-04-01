@@ -8,7 +8,7 @@ body{
 }
 
 header {
-    background: rgb(142, 221, 39);
+    background: rgb(35, 25, 175);
     font-size: medium;
     padding: 10px;
     text-align: left;
@@ -19,7 +19,7 @@ header {
 }   
 section{
     padding: 20px;
-    background-color: rgba(142, 221, 39);
+    background-color: rgba(35, 25, 175);
     color: rgb(255, 247, 247);
     border-radius: 3px;
     display: inline-block;
