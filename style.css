@@ -8,19 +8,19 @@ body{
 }
 
 header {
-    background: rgb(35, 25, 175);
+    background: rgb(142, 221, 39);
     font-size: medium;
     padding: 10px;
     text-align: left;
-    color: white;
+    color: rgb(35, 25, 175);
     border-radius: 3px;
     flex-direction: row;
    
 }   
 section{
     padding: 20px;
-    background-color: rgba(35, 25, 175);
-    color: rgb(255, 247, 247);
+    background-color: rgba(142, 221, 39);
+    color: rgb(35, 25, 175);
     border-radius: 3px;
     display: inline-block;
     display: flex;
