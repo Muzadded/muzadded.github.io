@@ -1,8 +1,9 @@
 section{
     background-image: url(/5.jpg);
-    background-size: 100%;
-    background-position: absolute;
-    height: 600px;
+    background-size: cover;
+    background-position: center;
+    height: 560px;
     padding: 20px;
     text-align: absolute;
+    background-attachment: fixed;
        }
